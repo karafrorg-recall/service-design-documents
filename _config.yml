@@ -14,9 +14,9 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Architectural Decision Records # the main title
+title: Service Design Documents # the main title
 
-tagline: Homepage of the Architectural Decision Records for Recall
+tagline: Homepage of the Service Design Documents for Recall
 
 description: >- # used by seo meta and the atom feed
   An Architectural Decision (AD) is a justified design choice that addresses a functional or non-functional requirement that is architecturally significant.

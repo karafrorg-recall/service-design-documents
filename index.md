@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Architectural Decision Records (ADRs)
+title: Service Design documents
 toc: true
 ---
 
