@@ -1,0 +1,21 @@
+{
+  "name": "karafrog-recall-architectural-decision-records",
+  "short_name": "karafrorg-recall-adr",
+  "icons": [
+    {
+      "src": "architectural-decision-records/assets/img/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "architectural-decision-records/assets/img/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#00FFFFFF",
+  "background_color": "#00FFFFFF",
+  "display": "standalone"
+}
